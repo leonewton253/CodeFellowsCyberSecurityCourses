@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# Script Name:                  loginhist
+# Author:                       Leo Newton
+# Date of latest revision:      12/13/2023
+# Purpose:                      Display Login History
+
+# Declaration of variables
+
+# Declaration of functions
+
+
+# Main
+
+
+# Function to print the login history
+print_login_history() {
+    echo "Login History:"
+    last -a   # This command prints the recent login history
+    echo "This is the login history"
+}
+
+# Call the function three times
+print_login_history
+print_login_history
+print_login_history
+
+
+
+# End
+
