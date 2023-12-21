@@ -3,7 +3,7 @@
 # Script Name:                  dirloop
 # Author:                       Leo Newton
 # Date of latest revision:      12/21/2023
-# Purpose:                      Create Directories with an array, place a text file in each directory.
+# Purpose:                      Search Directories with an array, place a text file if not found.
 
 # Declaration of variables
 
